@@ -1,4 +1,4 @@
-PostgreSQL Update Table [8 exercises with solution]
+PostgreSQL Update Table [8 exercises]
 
 1. Write a SQL statement to change the email column of the employees table with 'not available' for all employees.
 
