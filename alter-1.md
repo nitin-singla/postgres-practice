@@ -1,4 +1,4 @@
-PostgreSQL Alter Table [13 exercises with solution]
+PostgreSQL Alter Table [13 exercises]
 
 1. Write a SQL statement to rename the table countries to country_new.
 
