@@ -539,5 +539,3 @@ postgres=# \d job_history
  end_date      | date                  |
  job_id        | character varying(10) | not null
  department_id | numeric(4,0)          |
-
-Have another way to solve this solution? Contribute your code (and comments
