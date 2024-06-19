@@ -17,9 +17,9 @@ PostgreSQL Update Table [8 exercises]
 8. Write a SQL statement to increase the salary of employees under the department 40, 90 and 110 according to the company rules that, the salary will be increased by 25% of the department 40, 15% for department 90 and 10% of the department 110 and the rest of the department will remain same.
 
 - - - 
-## Tables
+Tables
 
-**Sample table : employees**
+Sample table : employees
 
 +-------------+-------------+-------------+----------+--------------------+------------+------------+----------+----------------+------------+---------------+
 | EMPLOYEE_ID | FIRST_NAME  | LAST_NAME   | EMAIL    | PHONE_NUMBER       | HIRE_DATE  | JOB_ID     | SALARY   | COMMISSION_PCT | MANAGER_ID | DEPARTMENT_ID |
@@ -133,7 +133,7 @@ PostgreSQL Update Table [8 exercises]
 |         206 | William     | Gietz       | WGIETZ   | 515.123.8181       | 1987-10-01 | AC_ACCOUNT |  8300.00 |           0.00 |        205 |           110 |
 +-------------+-------------+-------------+----------+--------------------+------------+------------+----------+----------------+------------+---------------+
 
-**Sample table: departments**
+Sample table: departments
 +---------------+----------------------+------------+-------------+
 | DEPARTMENT_ID | DEPARTMENT_NAME      | MANAGER_ID | LOCATION_ID |
 +---------------+----------------------+------------+-------------+
